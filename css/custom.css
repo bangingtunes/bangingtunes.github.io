@@ -1,0 +1,92 @@
+
+.btn-light{
+background: none;
+color: white;
+border: 2px solid white;
+text-decoration: none;
+}
+
+.btn-light:hover{
+background: none;
+color: #333;
+border: 2px solid #333;
+text-decoration: none;
+}
+
+.btn-dark{
+background: none;
+color: #333;
+border: 2px solid #333;
+text-decoration: none;
+}
+
+.btn-dark:hover{
+background: #333;
+color: white;
+border: 2px solid black;
+text-decoration: none;
+}
+
+.btn-muted{
+background: #EF9A9A;
+color: #F44336;
+border: 2px #B71C1C;
+text-decoration: none;
+}
+
+.btn-muted:hover{
+background: white;
+color: #F44336;
+border: 2px #B71C1C;
+text-decoration: none;
+}
+
+.carousel{
+width:1200px;
+margin:0 auto;
+}
+.footer{
+background-color:#B71C1C;
+padding-top: 10px;
+color: white;
+}
+h1{
+font-family: Montserrat;
+}
+h2{
+font-family: Montserrat;
+}
+h3{
+font-family: Montserrat;
+}
+h4{
+font-family: Montserrat;
+}
+.jumbotron{
+padding-top:100px;	
+background-color: #F44336;
+color: white;
+margin-bottom: 0;
+}
+.navbar-default{
+background-color: #212121;
+border: 0;
+font-family: Montserrat;
+}
+.no-underline{
+text-decoration: none;
+}
+.no-underline:hover{
+text-decoration: none;
+}
+p{
+font-family: Montserrat, sans-serif;
+text-align: justify;
+}
+pagetitle{
+font-family: Montserrat, sans-serif;
+color: white;
+font-size: 5EM;
+}
+
+
